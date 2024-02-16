@@ -1,2 +1,2 @@
-# Front-End_Project
+# Front-End_Project(ROCK PAPER SCISSOR)
 HTML, CSS, JAVASCRIPT
